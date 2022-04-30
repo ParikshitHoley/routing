@@ -1,0 +1,20 @@
+.navbar{
+    background-color: rgb(47, 105, 105);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    color: #fff;
+    background-color:#000;
+  font-size:20px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+h1{
+    color:#fff;
+    margin: 0px;
+    cursor: pointer;
+}
